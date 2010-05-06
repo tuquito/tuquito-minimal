@@ -1,0 +1,18 @@
+Source: tuquito-minimal
+Section: metapackages
+Priority: extra
+Maintainer: Mario Colque <mario@tuquito.org.ar>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.1
+
+Package: tuquito-minimal
+Architecture: all
+Depends: adduser, apt, apt-utils, bzip2, console-setup, dash, debconf, dhcp3-client, eject, gnupg, ifupdown, initramfs-tools, iproute, iputils-ping, kbd, less, locales, lsb-release, makedev, mawk, module-init-tools, net-tools, netbase, netcat-openbsd, ntpdate, passwd, procps, python, rsyslog, sudo, tasksel, tzdata, udev, upstart, ureadahead, vim-tiny, whiptail
+Descripción: Base minima de Tuquito
+ Este paquete depende de todos los paquetes en el sistema Tuquito mínimo, que es un sistema funcional de línea de comandos con las siguientes capacidades:
+ * Arranque
+ * Detección de hardware
+ * Conectarse a una red
+ * Instalar paquetes
+ * Realizar tareas básicas de diagnóstico
+ También se utiliza para ayudar a asegurar las actualizaciones adecuadas, por lo que se recomienda que no se lo quite.

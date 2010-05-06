@@ -1,0 +1,12 @@
+tuquito-minimal for Debian
+--------------------------
+
+Este paquete depende de todos los paquetes en el sistema Tuquito mínimo, que es un sistema funcional de línea de comandos con las siguientes capacidades:
+ 
+ * Arranque
+ * Detección de hardware
+ * Conectarse a una red
+ * Instalar paquetes
+ * Realizar tareas básicas de diagnóstico
+
+ -- Mario Colque <mario@tuquito.org.ar>  Mon, 03 May 2010 18:00:35 -0300
