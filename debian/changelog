@@ -1,3 +1,9 @@
+tuquito-minimal (0.1-6) lucid; urgency=low
+
+  * Agregado theme para grub2
+
+ -- Mario Colque <mario@tuquito.org.ar>  Wed, 19 May 2010 16:07:16 -0300
+
 tuquito-minimal (0.1-5) lucid; urgency=low
 
   * modificacion en dependencias
