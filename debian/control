@@ -7,8 +7,8 @@ Standards-Version: 3.8.1
 
 Package: tuquito-minimal
 Architecture: all
-Depends: adduser, apt, apt-utils, bzip2, console-setup, dash, debconf, dhcp3-client, eject, gnupg, grub2-theme-tuquito, ifupdown, initramfs-tools, iproute, iputils-ping, kbd, less, locales, lsb-release, makedev, mawk, module-init-tools, net-tools, netbase, netcat-openbsd, ntpdate, passwd, procps, sudo, tzdata, udev, upstart, whiptail, nano, dbus, alsa-base, alsa-utils, man-db, xorg, xserver-xorg-video-all, x11-utils, x11-xserver-utils, bash-completion, laptop-detect, launchpad-integration, ntfs-3g, avahi-utils, file, unace, rar, unrar, p7zip-full, p7zip-rar
-Description: Base minima de Tuquito
+Depends: adduser, apt, apt-utils, bzip2, console-setup, dash, debconf, dhcp3-client, eject, gnupg, grub2-theme-tuquito, ifupdown, initramfs-tools, iproute, iputils-ping, kbd, less, locales, lsb-release, makedev, mawk, module-init-tools, net-tools, netbase, netcat-openbsd, ntpdate, passwd, procps, sudo, tzdata, udev, upstart, whiptail, nano, dbus, alsa-base, alsa-utils, man-db, xorg, xserver-xorg-video-all, x11-utils, x11-xserver-utils, bash-completion, laptop-detect, launchpad-integration, ntfs-3g, avahi-utils, file, unace, rar, unrar, p7zip, p7zip-full, p7zip-rar
+Description: Base mínima de Tuquito
  Este paquete depende de todos los paquetes en el sistema Tuquito mínimo, que es un sistema funcional de línea de comandos con las siguientes capacidades:
  * Arranque
  * Detección de hardware

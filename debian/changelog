@@ -1,3 +1,9 @@
+tuquito-minimal (0.1-7) lucid; urgency=low
+
+  * agregado p7zip
+
+ -- Mario Colque <mario@tuquito.org.ar>  Wed, 02 Jun 2010 17:43:11 -0300
+
 tuquito-minimal (0.1-6) lucid; urgency=low
 
   * Agregado theme para grub2
