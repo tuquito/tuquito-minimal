@@ -1,3 +1,9 @@
+tuquito-minimal (0.1-8) lucid; urgency=low
+
+  * agregado usb-modeswitch
+
+ -- Mario Colque <mario@tuquito.org.ar>  Fri, 04 Jun 2010 16:36:23 -0300
+
 tuquito-minimal (0.1-7) lucid; urgency=low
 
   * agregado p7zip
