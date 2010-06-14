@@ -1,3 +1,9 @@
+tuquito-minimal (0.1-9.1) lucid; urgency=low
+
+  * revisión en dependencias
+
+ -- Mario Colque <mario@tuquito.org.ar>  Mon, 14 Jun 2010 13:45:24 -0300
+
 tuquito-minimal (0.1-9) lucid; urgency=low
 
   * revisión de paquetes en dependencia
