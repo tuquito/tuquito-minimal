@@ -1,3 +1,10 @@
+tuquito-minimal (0.1-10) lucid; urgency=low
+
+  * eliminado ubuntu-standard
+  * revisión de dependencias
+
+ -- Mario Colque <mario@tuquito.org.ar>  Wed, 16 Jun 2010 12:35:53 -0300
+
 tuquito-minimal (0.1-9.1) lucid; urgency=low
 
   * revisión en dependencias
