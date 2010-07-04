@@ -1,3 +1,15 @@
+tuquito-minimal (0.1-12) lucid; urgency=low
+
+  * revisión de paquetes
+
+ -- Mario Colque <mario@tuquito.org.ar>  Sun, 04 Jul 2010 12:56:16 -0300
+
+tuquito-minimal (0.1-11) lucid; urgency=low
+
+  * Revisión de Paquetes
+
+ -- Mario Colque <mario@tuquito.org.ar>  Sat, 03 Jul 2010 18:03:47 -0300
+
 tuquito-minimal (0.1-10) lucid; urgency=low
 
   * eliminado ubuntu-standard
