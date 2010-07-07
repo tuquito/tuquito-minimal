@@ -1,3 +1,9 @@
+tuquito-minimal (0.1-14) lucid; urgency=low
+
+  * Agregado memtest
+
+ -- Mario Colque <mario@tuquito.org.ar>  Wed, 07 Jul 2010 18:00:14 -0300
+
 tuquito-minimal (0.1-13) lucid; urgency=low
 
   * agregado parted
