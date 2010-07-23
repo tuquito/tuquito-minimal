@@ -1,3 +1,9 @@
+tuquito-minimal (0.1-15) lucid; urgency=low
+
+  * Eliminación de dependencia pm-utils-powersave-policy
+
+ -- Mario Colque <mario@tuquito.org.ar>  Fri, 23 Jul 2010 19:45:37 -0300
+
 tuquito-minimal (0.1-14) lucid; urgency=low
 
   * Agregado memtest
