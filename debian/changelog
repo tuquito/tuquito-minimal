@@ -1,3 +1,10 @@
+tuquito-minimal (0.1-16) lucid; urgency=low
+
+  * rebranded to maverick
+  * new dependencies
+
+ -- Mario Colque <mario@tuquito.org.ar>  Thu, 16 Sep 2010 14:24:41 -0300
+
 tuquito-minimal (0.1-15) lucid; urgency=low
 
   * Eliminación de dependencia pm-utils-powersave-policy
