@@ -1,3 +1,9 @@
+tuquito-minimal (0.1-18) maverick; urgency=low
+
+  * new depends
+
+ -- Mario Colque <mario@tuquito.org.ar>  Wed, 27 Oct 2010 13:57:46 -0300
+
 tuquito-minimal (0.1-17) maverick; urgency=low
 
   * dependencias modificadas
