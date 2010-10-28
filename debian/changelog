@@ -1,3 +1,9 @@
+tuquito-minimal (0.1-19) maverick; urgency=low
+
+  * added aptitude
+
+ -- Mario Colque <mario@tuquito.org.ar>  Thu, 28 Oct 2010 00:10:39 -0300
+
 tuquito-minimal (0.1-18) maverick; urgency=low
 
   * new depends
