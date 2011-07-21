@@ -1,3 +1,9 @@
+tuquito-minimal (0.1-18) natty; urgency=low
+
+  * Pampa branch
+
+ -- Mario Colque <mario@tuquito.org.ar>  Thu, 21 Jul 2011 20:14:29 -0300
+
 tuquito-minimal (0.1-17) maverick; urgency=low
 
   * dependencias modificadas
